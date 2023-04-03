@@ -9,8 +9,8 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://github.com/reesshhoo/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%201-%20Score%20Prediction/Score_prediction.ipynb)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://youtube.com)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtube.com)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/reesshhoo/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%201-%20Score%20Prediction/Score_prediction.ipynb)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
